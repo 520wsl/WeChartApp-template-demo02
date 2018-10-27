@@ -1,0 +1,16 @@
+{
+  "pages": ["pages/9ftP7f2G9Z_page10000/9ftP7f2G9Z_page10000","pages/9ftP7f2G9Z_page10001/9ftP7f2G9Z_page10001","pages/9ftP7f2G9Z_page10002/9ftP7f2G9Z_page10002","pages/9ftP7f2G9Z_page10003/9ftP7f2G9Z_page10003","pages/tabbarTransferPage/tabbarTransferPage","pages/userCenter/userCenter"],
+    "subPackages": [{"root":"default","pages":["pages/advanceSearch/advanceSearch","pages/bindCellphone/bindCellphone","pages/extensionPage/extensionPage","pages/userCollect/userCollect","pages/mapDetail/mapDetail"]},{"root":"eCommerce","pages":["pages/addAddress/addAddress","pages/couponDescription/couponDescription","pages/myAddress/myAddress","pages/searchAddress/searchAddress","pages/transferOrderDetail/transferOrderDetail","pages/transferPage/transferPage","pages/transferPaySuccess/transferPaySuccess","pages/vipCard/vipCard"]},{"root":"awardManagement","pages":["pages/goldenEggs/goldenEggs","pages/luckyWheelDetail/luckyWheelDetail"]},{"root":"userCenter","pages":["pages/winningRecord/winningRecord","pages/myIntegral/myIntegral","pages/myMessage/myMessage","pages/vipCardList/vipCardList"]},{"root":"informationManagement","pages":["pages/communityDetail/communityDetail","pages/communityFailpass/communityFailpass","pages/communityNotify/communityNotify","pages/communityPage/communityPage","pages/communityReport/communityReport","pages/communityUsercenter/communityUsercenter"]},{"root":"customPackage1","pages":["pages/9ftP7f2G9Z_page10004/9ftP7f2G9Z_page10004","pages/9ftP7f2G9Z_page10006/9ftP7f2G9Z_page10006","pages/9ftP7f2G9Z_page10008/9ftP7f2G9Z_page10008","pages/9ftP7f2G9Z_page10010/9ftP7f2G9Z_page10010","pages/9ftP7f2G9Z_page10012/9ftP7f2G9Z_page10012","pages/9ftP7f2G9Z_page10014/9ftP7f2G9Z_page10014","pages/9ftP7f2G9Z_page10016/9ftP7f2G9Z_page10016","pages/9ftP7f2G9Z_page10018/9ftP7f2G9Z_page10018"]},{"root":"customPackage2","pages":["pages/9ftP7f2G9Z_page10005/9ftP7f2G9Z_page10005","pages/9ftP7f2G9Z_page10007/9ftP7f2G9Z_page10007","pages/9ftP7f2G9Z_page10011/9ftP7f2G9Z_page10011","pages/9ftP7f2G9Z_page10013/9ftP7f2G9Z_page10013","pages/9ftP7f2G9Z_page10015/9ftP7f2G9Z_page10015","pages/9ftP7f2G9Z_page10019/9ftP7f2G9Z_page10019"]}],
+    "window": {
+    "enablePullDownRefresh": false ,
+    "onReachBottomDistance": "50"
+  },
+    "tabBar": {"borderStyle":"white","color":"#848484","selectedColor":"#E94221","backgroundColor":"#FFFFFF","list":[{"iconPath":"images/5bd43d641b119.png","selectedIconPath":"images/5bd43d641b1c7.png","text":"公益","pagePath":"pages/9ftP7f2G9Z_page10000/9ftP7f2G9Z_page10000"},{"iconPath":"images/5bd43d6483e4f.png","selectedIconPath":"images/5bd43d6483e9c.png","text":"资讯","pagePath":"pages/9ftP7f2G9Z_page10001/9ftP7f2G9Z_page10001"},{"iconPath":"images/5bd43d64dac7a.png","selectedIconPath":"images/5bd43d64dacc2.png","text":"生活","pagePath":"pages/9ftP7f2G9Z_page10002/9ftP7f2G9Z_page10002"},{"iconPath":"images/5bd43d65407ec.png","selectedIconPath":"images/5bd43d6542dc0.png","text":"我的","pagePath":"pages/9ftP7f2G9Z_page10003/9ftP7f2G9Z_page10003"}]},
+        "networkTimeout": {
+    "request": 20000,
+    "connectSocket": 10000,
+    "uploadFile": 25000,
+    "downloadFile": 25000
+  },
+  "debug": false
+}
